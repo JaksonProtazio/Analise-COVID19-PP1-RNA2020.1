@@ -8,3 +8,5 @@ A fim ter um entendimento mais geral dos dados, fez-se uma análise nos dados br
 
 ## Pré-processando os dados
 Para realizar a análise dos dados o dataset foi simplificado ao máximo, foram deletados atributos que não eram necessários para a análise, e todas as linhas que possuiam pelo menos um dado faltando. O resultado pode ser visto no arquivo [dataset_limpo_covid19_manaus.csv](dataset/dataset_limpo_covid19_manaus.csv). Ao finalizar a retirada de colunas e linhas desejadas o arquivo ficou com 6 featues e 6361 linhas.
+
+## Exploração de dados
