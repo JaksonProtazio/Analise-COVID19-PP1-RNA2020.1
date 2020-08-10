@@ -14,7 +14,7 @@ Para realizar a análise dos dados o dataset foi simplificado ao máximo, foram 
 
 ### Visão geral dos casos da base de dados
 
-No arquivo [2.1 - Visao_geral_casos_confirmados.ipynb](2.1 - Visao_geral_casos_confirmados.ipynb) é possível ter um panorama mais geral sobre os casos com base nos datasets.
+No arquivo [2.1 - Visao_geral_casos_confirmados.ipynb]("2.1 - Visao_geral_casos_confirmados.ipynb") é possível ter um panorama mais geral sobre os casos com base nos datasets.
 
 ### Propondo tarefas de Aprendizado de máquina para o dataset
 
